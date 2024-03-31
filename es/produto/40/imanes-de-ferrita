@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="es" class="">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+    
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+	<link href="/css/vendor/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/vendor/slider.min.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/vendor/icons.min.css" rel="stylesheet">
+	<link href="/css/vendor/animation.min.css" rel="stylesheet">
+	<link href="/css/vendor/gallery.min.css" rel="stylesheet">
+	<link href="/css/vendor/cookie-notice.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+	<link href="/css/custom.css?v=29062021" rel="stylesheet">
+
+	<link href="/css/default.css" rel="stylesheet">
+	<link href="/css/theme-blue.css" rel="stylesheet">
+
+	<style>
+		:root {
+			--header-bg-color: #111111;
+			--nav-item-color: #f5f5f5;
+			--hero-bg-color: #040402;
+
+			--section-1-bg-color: #eeeeee;
+			--section-2-bg-color: #f5f5f5;
+			--section-3-bg-color: #e5e5e5;
+			--section-4-bg-color: #eeeeee;
+			--section-5-bg-color: #f5f5f5;
+			--section-6-bg-color: #e5e5e5;
+			--section-7-bg-color: #eeeeee;
+			--section-8-bg-color: #e5e5e5;
+			--section-9-bg-color: #eeeeee;
+			--section-10-bg-color: #e5e5e5;
+			--section-11-bg-color: #f5f5f5;
+			--footer-bg-color: #111;
+		}
+	</style>
+	
+	<title>Imanes de Ferrita | Brasil Magnets</title>
+		<meta name="description" content="Brasil Magnets es el mayor importador de Imanes y Equipos Magnéticos de Brasil. Nuestro catálogo con una amplia gama de atributos y equipamientos. Verificar."/>
+	<meta name="keywords" content="catálogo, productos, variedad, Imanes, equipo, Imanes de brasil, magnético, neodimio, ferrita, Alnico, samario, cobalto, unido, biomagnetismo, Neocube, dinamómetro, levantador, cuadrícula, magnético, separación, magnetizado"/>
+
+
+<script>
+	gtag=function(a,b,c,d){console.log('-->', a, b, c)}
+</script>
+
+<script>
+	window.ENVIAR_EVENTOS_ANALYTICS = true;
+</script>
+
+	<link rel="alternate" hreflang="pt-BR" href="/produto/40/imas-de-ferrite" />
+	<link rel="alternate" hreflang="en-US" href="/en/produto/40/ferrite-magnets" />
+   
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-THZRJPB');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THZRJPB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Header -->
+<header id="header">
+
+	<!-- Navbar -->
+	<nav  class="navbar navbar-expand">
+		<div class="container header__top d-flex justify-content-center" style="
+		display: flex!important;
+		justify-content: space-between!important;">
+			<ul class="navbar-nav items">
+				
+								
+								<li class="nav-item social">
+					<a href="https://www.instagram.com/explore/tags/brasilmagnets/" target="_blank" class="nav-link">
+						<i class="icon-social-instagram"></i>
+					</a>
+				</li>
+				
+								<li class="nav-item social">
+					<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" target="_blank" class="nav-link">
+						<i class="icon-social-youtube"></i>
+					</a>
+				</li>
+				    
+
+								
+			</ul>
+			<ul class="navbar-nav items menu__tel">
+				
+								<ul class="flags">
+					
+										<a href="/produto/40/imas-de-ferrite" class="" title="Português">
+						<img src="/images/brasil.jpg" alt="">
+					</a>
+										<a href="/en/produto/40/ferrite-magnets" class="" title="English">
+						<img src="/images/eua.png" alt="">
+					</a>
+										<a href="/es/produto/40/imanes-de-ferrita" class="idioma-active" title="Español">
+						<img src="/images/espanha.jpg" alt="">
+					</a>
+									</ul>
+								
+								<li>
+					<a href="tel:+551150410833">
+						+55 (11) 5041-0833					</a>
+					
+										<span style="color:#fff;">-</span>
+					<a href="tel:+551150962477">
+						+55 (11) 5096-2477					</a>
+									</li>
+								
+			</ul>
+		</div>
+		<div class="container header">
+
+			<!-- Navbar Brand-->
+			<a class="navbar-brand img__absolute" href="/es">
+				<img src="/images/Logo-01.png" alt="">
+			</a>
+			<!-- Nav holder -->
+			<div class="ml-auto"></div>
+			<!-- Navbar Items -->
+			<ul class="navbar-nav items">
+				<li class="nav-item "> 
+					<a href="/es" 
+						class="nav-link " title="Home">
+						Home					</a>
+				</li>
+				<li class="nav-item">
+					<a href='/es/empresa' 
+						class="nav-link " title="Empresa">
+						Empresa					</a>
+				</li>
+								<li class="nav-item dropdown">
+					<a href="/es/productos" 
+					class="nav-link active" title="Productos">
+						Productos						<i class="icon-arrow-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/20/imanes" title="Imanes">
+								
+								<span class="text-dark">Imanes</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/21/elevadores-magneticos" title="Elevadores Magneticos">
+								
+								<span class="text-dark">Elevadores Magneticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/23/dinamometro-digital" title="Dinamómetro Digital">
+								
+								<span class="text-dark">Dinamómetro Digital</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/24/separacion-magnetica" title="Separación magnética">
+								
+								<span class="text-dark">Separación magnética</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/25/utensilios-magneticos" title="Utensilios Magnéticos">
+								
+								<span class="text-dark">Utensilios Magnéticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/26/imanes-creativos" title="Imanes Creativos">
+								
+								<span class="text-dark">Imanes Creativos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+											</ul>
+				</li>
+								
+								<li class="nav-item ">
+					<a href="/es/saber-mas" class="nav-link " title="Saber más">
+						Saber más					</a>
+				</li>
+								
+				<li class="nav-item ">
+					<a class="nav-link " href="/es/presupuesto" title="Presupuesto">
+						Presupuesto					</a>
+				</li>
+
+				<li class="nav-item ">
+					<a href="/es/contacto" 
+						class="nav-link " title="Contacto">
+						Contacto					</a>
+				</li>
+				
+			</ul>
+			<!-- Navbar Icons -->
+			<ul class="navbar-nav icons">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#search">
+						<i class="icon-magnifier"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Toggle -->
+			<ul class="navbar-nav toggle">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#menu">
+						<i class="icon-menu m-0"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Action -->
+						<ul class="navbar-nav action">
+				<li class="nav-item ml-3">
+					<a class="btn__header btn ml-lg-auto primary-button loja__virtual" href="https://www.lojadoima.com.br" target="_blank">
+						Tienda online					</a>
+				</li>
+			</ul>
+			   
+		</div>
+	</nav>
+</header><main id="produtos">
+	<section id="about" class="section-1 highlights image-right section__internas">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-md-6">
+					<div class="col-12 p-0 col-md-12 align-self-center text-md-left">
+						<div class="row intro">
+							<div class="col-12 p-0">
+								<h1 class="featured alt" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="400">
+									Imanes de Ferrita								</h1>
+								<div data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
+									<h4>Descripción</h4>
+									<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Los Imanes de ferrita, tambi&eacute;n conocidos como imanes cer&aacute;micos, son uno de los imanes permanentes m&aacute;s econ&oacute;micos y uno de los m&aacute;s utilizados. A pesar de su menor energ&iacute;a, tienen una excelente resistencia a la corrosi&oacute;n y un rango de temperatura m&aacute;s amplio que hace que tenga infinitas posibilidades de aplicaciones.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Se producen a partir de polvos de &oacute;xido de hierro y carbonato de estroncio. Estos materiales se mezclan, muelen y presionan bajo un campo magn&eacute;tico, obteniendo as&iacute; una orientaci&oacute;n magn&eacute;tica a&uacute;n verde (en el caso de imanes anisotr&oacute;picos). Debido a su proceso de fabricaci&oacute;n son relativamente duros y quebradizos, es extremadamente importante manipularlos con cuidado para evitar astillas y roturas.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Los Imanes de ferrita no se oxidan y no requieren una capa protectora, son resistentes a la corrosi&oacute;n y pueden funcionar a temperaturas de hasta 250 &deg; C sin perder su campo magn&eacute;tico.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">La ferrita se puede fabricar con varias composiciones y algunas pueden tener campos magn&eacute;ticos considerables, como por ejemplo las que se utilizan en equipos magn&eacute;ticos y otros tipos pueden tener un campo magn&eacute;tico m&aacute;s bajo pero con un mayor n&uacute;mero de aplicaciones, como los imanes flexibles.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Es importante recordar que un im&aacute;n de neodimio de la misma masa tiene aproximadamente 18 veces m&aacute;s fuerza que un im&aacute;n de ferrita y, sin embargo, es uno de los imanes m&aacute;s utilizados en el mundo.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Nuestro portafolio tiene diferentes tipos de formas, medidas y fuerzas magn&eacute;ticas en diferentes grados 1 (Y10T), 5 (Y30), 7 (Y35).</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">&iexcl;En Brasil Magnets encontrar&aacute; Imanes de ferrita disponibles en diferentes tipos de formas y tama&ntilde;os que se adaptar&aacute;n a lo que necesite! Consulte a nuestros especialistas.</span></p>								</div>
+							</div>
+						</div>
+						<div class="row items" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
+							<div class="col-12 p-0">
+								
+								<div class="row item">
+									<form method="post" accept-charset="utf-8" class="" action="/orcamento/adicionar-produto-nos-detalhes/40"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="b90530fe4a432a65677535574da6f78275fef9e449541cf0b84f40a6f67d9076a8f04cd2e2691c2cb04cbb99de148d511655e8512a5b54cb44187e9328cec403"/></div>									
+									<input type="hidden" name="idioma" value="3">
+									
+									<div class="col-12 p-0">
+										<button type="submit" class="btn mr-md-0  primary-button">
+											<i class="fa fa-envelope"></i>Hacer un presupuesto										</button>
+									</div>
+									</form>								</div>
+								
+								
+															</div>
+						</div>
+					</div>
+				</div>
+				
+								<div class="col-md-6">
+					<div class="slick-simple slick-simple__wrapper ">
+						
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/a06c0b264fbdea2179a503402a111e25b5b600c1.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/a06c0b264fbdea2179a503402a111e25b5b600c1.jpg" class="fit-image" alt="Ímãs de Ferrite">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/8403b63ba2398e35567ad54efda9f1e4a609be39.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/8403b63ba2398e35567ad54efda9f1e4a609be39.jpg" class="fit-image" alt="Ímãs de Ferrite">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/9a0289cccb41b0cc91770c016ccba28c3c5091ad.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/9a0289cccb41b0cc91770c016ccba28c3c5091ad.jpg" class="fit-image" alt="Ímãs de Ferrite">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/df853770cbb4bbf645afaaf56ae24fa6fac2d068.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/df853770cbb4bbf645afaaf56ae24fa6fac2d068.jpg" class="fit-image" alt="Ímãs de Ferrite">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/2dfab18eafe1ba03bbf26d7da00ae5d28176e967.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/2dfab18eafe1ba03bbf26d7da00ae5d28176e967.jpg" class="fit-image" alt="Ímãs de Ferrite">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/8bf9784905e83862246d642d2b03ed25fce52f14.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/8bf9784905e83862246d642d2b03ed25fce52f14.jpg" class="fit-image" alt="Ímãs de Ferrite">
+									</figure>
+								</a>
+							</div>
+													</div>
+												
+					</div>
+				</div>
+								
+			</div>
+		</div>
+		<div class="container">
+			<div class="row items ">
+				
+								<div class="col-12 mt-5" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">
+					<div class="row item ">
+						<div class="col-12 col-md-12 p-0">
+							<h4 class="mb-2">Aplicación</h4>
+							
+														
+														<div class="produtos-grid_img">
+																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/054f236f72a6b5ba0724b58795807020e7d8ba38.jpg" data-fancybox="aplication">
+			<img src="/arquivos/054f236f72a6b5ba0724b58795807020e7d8ba38.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Industria Gráfica</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Industria Gráfica</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/2afb30e6132c02ad681a56fe957f00a75ae2213a.jpg" data-fancybox="aplication">
+			<img src="/arquivos/2afb30e6132c02ad681a56fe957f00a75ae2213a.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Separación Magnética</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Separación Magnética</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/cbc1e1349e319d3eba77b0670e99e2eb25b7e3ae.jpg" data-fancybox="aplication">
+			<img src="/arquivos/cbc1e1349e319d3eba77b0670e99e2eb25b7e3ae.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Altavoces</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Altavoces</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/8665aa8d0ef43a894424d684e54858eacd66d24b.jpg" data-fancybox="aplication">
+			<img src="/arquivos/8665aa8d0ef43a894424d684e54858eacd66d24b.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Generadores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Generadores</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/98e2b37dd65569cef5a8973b3c2d353e25e88c0c.jpg" data-fancybox="aplication">
+			<img src="/arquivos/98e2b37dd65569cef5a8973b3c2d353e25e88c0c.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Manipulación de Materiales</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Manipulación de Materiales</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/74ce5c131ac4ef08b48ad0f440cc1e48a5b0096d.jpg" data-fancybox="aplication">
+			<img src="/arquivos/74ce5c131ac4ef08b48ad0f440cc1e48a5b0096d.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Alternadores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Alternadores</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/8b53867e0743043a4391e478cc9514600d90e3c6.jpg" data-fancybox="aplication">
+			<img src="/arquivos/8b53867e0743043a4391e478cc9514600d90e3c6.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Amortiguadores Magnéticos</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Amortiguadores Magnéticos</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/57d800066e2a8ed620689596575d448cb0a41a99.jpg" data-fancybox="aplication">
+			<img src="/arquivos/57d800066e2a8ed620689596575d448cb0a41a99.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Frenos</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Frenos</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/7628315bc7480366370fba03a068532943061bd3.jpg" data-fancybox="aplication">
+			<img src="/arquivos/7628315bc7480366370fba03a068532943061bd3.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Sistema ABS</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Sistema ABS</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/71c1814001368888bdf77ee891e5531650e23de0.jpg" data-fancybox="aplication">
+			<img src="/arquivos/71c1814001368888bdf77ee891e5531650e23de0.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Micrófonos</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Micrófonos</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/115bc129e1caa33575bce29551bb52cd66383f25.jpg" data-fancybox="aplication">
+			<img src="/arquivos/115bc129e1caa33575bce29551bb52cd66383f25.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Audífonos</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Audífonos</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/64f490e02b64ddfc21ac2f81e2f35c88d28f0a0e.jpg" data-fancybox="aplication">
+			<img src="/arquivos/64f490e02b64ddfc21ac2f81e2f35c88d28f0a0e.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Motores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Motores</span>
+	</div>
+</div>															</div>
+													</div>
+					</div>
+				</div>
+								
+								
+			</div>
+		</div>
+	</section>
+	
+	<section class="produtos-table">
+		<div class="container">
+			
+						<div class="produtos-table-wrapper">
+				<h3 class="mt-0">Tabela</h3>
+				<p class="frase-mobile">Arrastre hacia la derecha para ver más información.<i class="fas fa-long-arrow-alt-right"></i></p>
+				<div class="table-responsive">
+					<p>&nbsp;</p>
+<table class="table table-bordered nobottommargin" style="width: 908px;" border="0" cellspacing="0"><colgroup span="6" width="85"></colgroup>
+<tbody>
+<tr>
+<td style="width: 127.24px; border: 1px solid #c0c0c0;" rowspan="3" align="center" valign="middle" bgcolor="#3366FF" height="109"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">Tipo</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Br</span></strong></td>
+<td style="width: 143.247px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Hc</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Hci</span></strong></td>
+<td style="width: 148.264px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">BH max</span></strong></td>
+<td style="width: 120.278px; border: 1px solid #c0c0c0;" rowspan="2" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Temperatura M&aacute;xima de Trabajo</span></strong></td>
+</tr>
+<tr>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;">Remanente</span></strong></td>
+<td style="width: 143.247px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;">Fuerza Coercitiva</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;">Fuerza Coercitiva Intr&iacute;nseco</span></strong></td>
+<td style="width: 148.264px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;">Producto de Energ&iacute;a M&aacute;xima&nbsp;</span></strong></td>
+</tr>
+<tr>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">G</span></strong></td>
+<td style="width: 143.247px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">Oe</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">Oe</span></strong></td>
+<td style="width: 148.264px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">MGOe</span></strong></td>
+<td style="width: 120.278px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">C&ordm;</span></strong></td>
+</tr>
+<tr>
+<td style="width: 892.986px; border: 1px solid #c0c0c0;" colspan="6" align="center" valign="middle" height="21"><strong><em><span style="font-family: Calibri;">FERRITE ISOTROPICO</span></em></strong></td>
+</tr>
+<tr>
+<td style="width: 127.24px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">1 (Y10T)</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">2.300</span></td>
+<td style="width: 143.247px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">1.860</span></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">3.250</span></td>
+<td style="width: 148.264px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">1,05</span></td>
+<td style="width: 120.278px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">250</span></td>
+</tr>
+<tr>
+<td style="width: 892.986px; border: 1px solid #c0c0c0;" colspan="6" align="center" valign="middle" height="21"><strong><em><span style="font-family: Calibri;">FERRITE ANISOTROPICO</span></em></strong></td>
+</tr>
+<tr>
+<td style="width: 127.24px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">5 (Y30)</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">3.800</span></td>
+<td style="width: 143.247px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">2.400</span></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">2.500</span></td>
+<td style="width: 148.264px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">3,4</span></td>
+<td style="width: 120.278px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">250</span></td>
+</tr>
+<tr>
+<td style="width: 127.24px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">7 (Y35)</span></strong></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">4.000</span></td>
+<td style="width: 143.247px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">2.200</span></td>
+<td style="width: 142.257px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">2400</span></td>
+<td style="width: 148.264px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">4,0</span></td>
+<td style="width: 120.278px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">250</span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>					
+									</div>
+				<p class="frase-mobile">Arraste para o lado para ver mais informações<i class="fas fa-long-arrow-alt-right"></i></p>
+			</div> 
+						
+			<div class="col-12 justify-content-center input-group button-form_custom">
+				<form method="post" accept-charset="utf-8" class="" action="/orcamento/adicionar-produto-nos-detalhes/40"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="b90530fe4a432a65677535574da6f78275fef9e449541cf0b84f40a6f67d9076a8f04cd2e2691c2cb04cbb99de148d511655e8512a5b54cb44187e9328cec403"/></div>				
+					<input type="hidden" name="idioma" value="3">
+				
+					<button type="submit" class="btn mr-md-0  primary-button">
+						<i class="fa fa-envelope"></i>Hacer un presupuesto					</button>
+				</form>			</div>
+			
+						<div class="alert alert-danger" role="alert">
+				<p>&iexcl;ATENCI&Oacute;N! CUIDADO CON EQUIPO MAGN&Eacute;TICO: Informamos que las personas con alguna pr&oacute;tesis met&aacute;lica y / o marcapasos deben mantenerse alejadas de los equipos magn&eacute;ticos. Tenga el debido cuidado al manipular herramientas y / o piezas met&aacute;licas cerca de equipos magn&eacute;ticos, evitando posibles accidentes.</p>							</div>
+					</div>
+	</section>
+</main><footer>
+	<div class="bkg-hidden"></div>
+	
+	
+	<!-- Footer [links] -->
+	<section id="footer" class="odd footer">
+		<div class="container">
+			<div class="row items footer-content">
+				<div class="col-md-12 col-lg-12 p-0 footer-index foo">
+					<div class="row d-flex justify-content-start">
+						<!-- primeiro card -->
+					</div>
+
+					<!-- ************************************* -->
+
+					<div class="col-12 text-center  item redes-sociais">
+						<div class="brand col-12 d-flex justify-content-center logo__img-footer">
+							<a class="navbar-brand d-flex justify-content-center" href="/es">
+								<img class="logo__img" src="/images/Logo-02.png" alt="">
+							</a>
+						</div>
+
+						<ul class="navbar-nav share-list mt-0">
+							<h4 class="title">Síganos:</h4>
+							<ul class="share-list-sociais">
+								
+																
+																<li class="nav-item social">
+									<a href="https://www.instagram.com/explore/tags/brasilmagnets/" class="nav-link" target="_blanck">
+										<i class="icon-social-instagram"></i>
+									</a>
+								</li>
+																
+																<li class="nav-item social">
+									<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" class="nav-link" target="_blank">
+										<i class="icon-social-youtube">
+										</i>
+									</a>
+								</li>
+								
+															</ul>
+						</ul>
+
+							<div class="item contato-footer mt-3">
+								<h4 class="title">Ponerse en contacto</h4>
+								<ul class="navbar-nav navbar-custom">
+									
+																		<li class="nav-item">
+										<a href="tel:+551150410833">
+											<i class="icon-phone mr-2"></i>
+											+55 (11) 5041-0833										</a>
+
+																				<span style="color:#fff;">-</span>
+										<a href="tel:+551150962477">
+											+55 (11) 5096-2477										</a>
+																			</li>
+									
+																			<li class="nav-item">
+											<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank">
+												<i class="fab fa-whatsapp"></i>
+												+55 (11) 99380-2094											</a>
+										</li>
+																		
+																		<li class="nav-item">
+										<a href="mailto:vendas@brasilmagnets.com.br" class="nav-link">
+											<i class="icon-envelope mr-2"></i>
+											vendas@brasilmagnets.com.br										</a>
+									</li>
+																		
+																		<li class="nav-item">
+										<a class="nav-link" target="_blank"
+																							href="https://goo.gl/maps/vHRwGVvtxLUTjcfY6"
+																						>
+											<i class="icon-location-pin mr-2"></i>
+											Calle Conde de Porto Alegre, 1905 - Campo Belo São Paulo - SP 04608-003 										</a>
+									</li>
+																		
+									<li class="nav-item">
+										<a href="/es/politicaes"><i class="icon-check mr-2"></i> Política de privacidad</a>
+									</li>
+								</ul>
+								
+								<div class="copyright-text text-light text-start text-uppercase">
+									© Copyright 2023 Brasil Magnets. <br>
+								</div>
+								
+								<div class=" copyright-ellite ">
+									<a href="http://www.ellitedigital.com.br" title="Ellite Digital - Criação de Sites e Marketing Digital" target="_blank">
+										<img src="http://www.ellitedigital.com.br/logo-sites/logo-ellite-white.png" alt="Ellite Agência Digital">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<div class="footer-banner">
+		</div>
+	</section>
+	
+		<!-- BOTÃO whatsapp -->
+	<div class="btn-whatsapp-rounded-position">
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded desk">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded mob">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+	</div>
+	
+</footer>
+
+<!-- LGPD 
+<div id="lgpd-modal">
+        <div class="container">
+            <div class="lgpd-modal__flex">
+                <p class="lgpd-modal__desc">
+                    Usamos cookies para una mejor experiencia de navegación. Al continuar en el sitio, consideramos que está de acuerdo con nuestra                     	<a href="/es/politicaes" target="_blank"class="lgpd-modal__link">Política de privacidad		
+                    	</a>.
+                </p>
+                <button class="lgpd-modal__btn">
+                   Continuar y cerrar                </button>
+            </div>
+        </div>
+    </div>
+    LGPD -->
+
+<!-- Modal [search] -->
+<div id="search" class="p-0 modal fade" role="dialog" aria-labelledby="search" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Búsqueda <i class="icon-close"></i>
+			</div>
+			<div class="modal-body">
+
+				<form class="row" action="/es/productos" method="get">
+					
+					<div class="col-12 p-0 align-self-center">
+
+						<div class="row">
+							<div class="col-12 p-0 pb-3">
+								<h2>¿Qué estás buscando?</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group">
+								<input type="text" name="busca" class="form-control" placeholder="Escriba aquí" required>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group align-self-center">
+								<button type="submit" class="btn primary-button" id="botao">
+									<i class="icon-magnifier"></i>
+									Buscar								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Modal [responsive menu] -->
+<div id="menu" class="p-0 modal fade" role="dialog" aria-labelledby="menu" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Menú <i class="icon-close"></i>
+			</div>
+			<div class="menu modal-body">
+				<div class="row w-100">
+					<div class="items p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+					<div class="contacts p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="/js/vendor/jquery.min.js"></script>
+<script src="/js/js.js"> </script>
+
+<script src="/js/vendor/jquery.easing.min.js"></script>
+<script src="/js/vendor/jquery.inview.min.js"></script>
+<script src="/js/vendor/popper.min.js"></script>
+<script src="/js/vendor/bootstrap.min.js"></script>
+<script src="/js/vendor/ponyfill.min.js"></script>
+<script src="/js/vendor/slider.min.js"></script>
+<script src="/js/vendor/animation.min.js"></script>
+<script src="/js/vendor/progress-radial.min.js"></script>
+<script src="/js/vendor/bricklayer.min.js"></script>
+<script src="/js/vendor/gallery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/vendor/shuffle.min.js"></script>
+<script src="/js/vendor/cookie-notice.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/custom.js"></script>
+
+
+
+<script type="text/javascript">
+// captchas iniciados manualmente
+// o id é usado quando há mais de 2 captchas na mesma tela 
+var onloadCallbackcaptcha = function(){
+	$('[data-grecaptcha]').each(function(){
+		var id = grecaptcha.render(this, {
+			'sitekey' : $(this).attr('data-sitekey'),
+		});
+		
+		$(this).attr('data-grecaptcha', id);
+	});
+}
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackcaptcha&render=explicit"></script>
+
+<script src="/js/js.js"></script>
+
+<script>
+send_events_session();    
+</script>
+
+</body>
+
+</html>

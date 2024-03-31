@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="es" class="">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+    
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+	<link href="/css/vendor/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/vendor/slider.min.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/vendor/icons.min.css" rel="stylesheet">
+	<link href="/css/vendor/animation.min.css" rel="stylesheet">
+	<link href="/css/vendor/gallery.min.css" rel="stylesheet">
+	<link href="/css/vendor/cookie-notice.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+	<link href="/css/custom.css?v=29062021" rel="stylesheet">
+
+	<link href="/css/default.css" rel="stylesheet">
+	<link href="/css/theme-blue.css" rel="stylesheet">
+
+	<style>
+		:root {
+			--header-bg-color: #111111;
+			--nav-item-color: #f5f5f5;
+			--hero-bg-color: #040402;
+
+			--section-1-bg-color: #eeeeee;
+			--section-2-bg-color: #f5f5f5;
+			--section-3-bg-color: #e5e5e5;
+			--section-4-bg-color: #eeeeee;
+			--section-5-bg-color: #f5f5f5;
+			--section-6-bg-color: #e5e5e5;
+			--section-7-bg-color: #eeeeee;
+			--section-8-bg-color: #e5e5e5;
+			--section-9-bg-color: #eeeeee;
+			--section-10-bg-color: #e5e5e5;
+			--section-11-bg-color: #f5f5f5;
+			--footer-bg-color: #111;
+		}
+	</style>
+	
+	<title>Imanes Nd Bonded | Brasil Magnets</title>
+		<meta name="description" content="Brasil Magnets es el mayor importador de Imanes y Equipos Magnéticos de Brasil. Nuestro catálogo con una amplia gama de atributos y equipamientos. Verificar."/>
+	<meta name="keywords" content="catálogo, productos, variedad, Imanes, equipo, Imanes de brasil, magnético, neodimio, ferrita, Alnico, samario, cobalto, unido, biomagnetismo, Neocube, dinamómetro, levantador, cuadrícula, magnético, separación, magnetizado"/>
+
+
+<script>
+	gtag=function(a,b,c,d){console.log('-->', a, b, c)}
+</script>
+
+<script>
+	window.ENVIAR_EVENTOS_ANALYTICS = true;
+</script>
+
+	<link rel="alternate" hreflang="pt-BR" href="/produto/52/imas-nd-bonded" />
+	<link rel="alternate" hreflang="en-US" href="/en/produto/52/nd-bonded-magnets" />
+   
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-THZRJPB');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THZRJPB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Header -->
+<header id="header">
+
+	<!-- Navbar -->
+	<nav  class="navbar navbar-expand">
+		<div class="container header__top d-flex justify-content-center" style="
+		display: flex!important;
+		justify-content: space-between!important;">
+			<ul class="navbar-nav items">
+				
+								
+								<li class="nav-item social">
+					<a href="https://www.instagram.com/explore/tags/brasilmagnets/" target="_blank" class="nav-link">
+						<i class="icon-social-instagram"></i>
+					</a>
+				</li>
+				
+								<li class="nav-item social">
+					<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" target="_blank" class="nav-link">
+						<i class="icon-social-youtube"></i>
+					</a>
+				</li>
+				    
+
+								
+			</ul>
+			<ul class="navbar-nav items menu__tel">
+				
+								<ul class="flags">
+					
+										<a href="/produto/52/imas-nd-bonded" class="" title="Português">
+						<img src="/images/brasil.jpg" alt="">
+					</a>
+										<a href="/en/produto/52/nd-bonded-magnets" class="" title="English">
+						<img src="/images/eua.png" alt="">
+					</a>
+										<a href="/es/produto/52/imanes-nd-bonded" class="idioma-active" title="Español">
+						<img src="/images/espanha.jpg" alt="">
+					</a>
+									</ul>
+								
+								<li>
+					<a href="tel:+551150410833">
+						+55 (11) 5041-0833					</a>
+					
+										<span style="color:#fff;">-</span>
+					<a href="tel:+551150962477">
+						+55 (11) 5096-2477					</a>
+									</li>
+								
+			</ul>
+		</div>
+		<div class="container header">
+
+			<!-- Navbar Brand-->
+			<a class="navbar-brand img__absolute" href="/es">
+				<img src="/images/Logo-01.png" alt="">
+			</a>
+			<!-- Nav holder -->
+			<div class="ml-auto"></div>
+			<!-- Navbar Items -->
+			<ul class="navbar-nav items">
+				<li class="nav-item "> 
+					<a href="/es" 
+						class="nav-link " title="Home">
+						Home					</a>
+				</li>
+				<li class="nav-item">
+					<a href='/es/empresa' 
+						class="nav-link " title="Empresa">
+						Empresa					</a>
+				</li>
+								<li class="nav-item dropdown">
+					<a href="/es/productos" 
+					class="nav-link active" title="Productos">
+						Productos						<i class="icon-arrow-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/20/imanes" title="Imanes">
+								
+								<span class="text-dark">Imanes</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/21/elevadores-magneticos" title="Elevadores Magneticos">
+								
+								<span class="text-dark">Elevadores Magneticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/23/dinamometro-digital" title="Dinamómetro Digital">
+								
+								<span class="text-dark">Dinamómetro Digital</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/24/separacion-magnetica" title="Separación magnética">
+								
+								<span class="text-dark">Separación magnética</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/25/utensilios-magneticos" title="Utensilios Magnéticos">
+								
+								<span class="text-dark">Utensilios Magnéticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/26/imanes-creativos" title="Imanes Creativos">
+								
+								<span class="text-dark">Imanes Creativos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+											</ul>
+				</li>
+								
+								<li class="nav-item ">
+					<a href="/es/saber-mas" class="nav-link " title="Saber más">
+						Saber más					</a>
+				</li>
+								
+				<li class="nav-item ">
+					<a class="nav-link " href="/es/presupuesto" title="Presupuesto">
+						Presupuesto					</a>
+				</li>
+
+				<li class="nav-item ">
+					<a href="/es/contacto" 
+						class="nav-link " title="Contacto">
+						Contacto					</a>
+				</li>
+				
+			</ul>
+			<!-- Navbar Icons -->
+			<ul class="navbar-nav icons">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#search">
+						<i class="icon-magnifier"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Toggle -->
+			<ul class="navbar-nav toggle">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#menu">
+						<i class="icon-menu m-0"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Action -->
+						<ul class="navbar-nav action">
+				<li class="nav-item ml-3">
+					<a class="btn__header btn ml-lg-auto primary-button loja__virtual" href="https://www.lojadoima.com.br" target="_blank">
+						Tienda online					</a>
+				</li>
+			</ul>
+			   
+		</div>
+	</nav>
+</header><main id="produtos">
+	<section id="about" class="section-1 highlights image-right section__internas">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-md-6">
+					<div class="col-12 p-0 col-md-12 align-self-center text-md-left">
+						<div class="row intro">
+							<div class="col-12 p-0">
+								<h1 class="featured alt" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="400">
+									Imanes Nd Bonded								</h1>
+								<div data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
+									<h4>Descripción</h4>
+									<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Los imanes Nd Bonded son imanes compuestos de part&iacute;culas de neodimio (NdFeB) basadas en termopl&aacute;sticos. Estos imanes se utilizan en aplicaciones donde se necesitan formatos m&aacute;s complejos y multipolarizaci&oacute;n.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Pueden fabricarse mediante dos procesos:</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><strong><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Compresi&oacute;n</span></strong><span lang="ES-AR" style="mso-ansi-language: ES-AR;">: para piezas con geometr&iacute;a simple</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Se obtiene una mayor energ&iacute;a magn&eacute;tica al tener una mayor densidad de part&iacute;culas magn&eacute;ticas. La base de pl&aacute;stico es epoxi, que es resistente a solventes industriales y fluidos automotrices. Tienen buena resistencia mec&aacute;nica y permiten tolerancias razonablemente "ajustadas".</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><strong><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Inyecci&oacute;n</span></strong><span lang="ES-AR" style="mso-ansi-language: ES-AR;">: para piezas de formas m&aacute;s complejas</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Como base se utilizan nailon, poliamida y PPS. Permiten la obtenci&oacute;n de formas complejas como engranajes, anillos delgados, segmentos de arco y otros. Es posible incorporar ejes durante el proceso de inyecci&oacute;n.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Los imanes Nd Bonded son materiales isotr&oacute;picos y se pueden magnetizar en cualquier direcci&oacute;n, y tambi&eacute;n pueden magnetizar toda la pieza o solo la parte que desee. Permite magnetizaci&oacute;n multipolar, recubrimiento epoxi y parileno. Tiene buena resistencia a la corrosi&oacute;n y buena resistencia al desconchado.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">Nuestro portafolio tiene multitud de formas, medidas y fuerzas magn&eacute;ticas en diferentes grados NB-4, NB-6, NB-8, NB-10, NB-12.</span></p>
+<p class="MsoNormal" style="text-align: justify; tab-stops: 0cm;"><span lang="ES-AR" style="mso-ansi-language: ES-AR;">&iexcl;En Brasil Magnets encontrar&aacute; imanes Nd Bonded disponibles en varios tipos de formas y tama&ntilde;os que se adaptar&aacute;n a lo que necesite! Consulte a nuestros especialistas.</span></p>								</div>
+							</div>
+						</div>
+						<div class="row items" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
+							<div class="col-12 p-0">
+								
+								<div class="row item">
+									<form method="post" accept-charset="utf-8" class="" action="/orcamento/adicionar-produto-nos-detalhes/52"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="b90530fe4a432a65677535574da6f78275fef9e449541cf0b84f40a6f67d9076a8f04cd2e2691c2cb04cbb99de148d511655e8512a5b54cb44187e9328cec403"/></div>									
+									<input type="hidden" name="idioma" value="3">
+									
+									<div class="col-12 p-0">
+										<button type="submit" class="btn mr-md-0  primary-button">
+											<i class="fa fa-envelope"></i>Hacer un presupuesto										</button>
+									</div>
+									</form>								</div>
+								
+								
+															</div>
+						</div>
+					</div>
+				</div>
+				
+								<div class="col-md-6">
+					<div class="slick-simple slick-simple__wrapper ">
+						
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/2ad41a8e744a7c3acccdd7439e0581f933e0801d.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/2ad41a8e744a7c3acccdd7439e0581f933e0801d.jpg" class="fit-image" alt="Ímãs Nd Bonded">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/1c5b86e147096d0c58574698c79319a3b3932013.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/1c5b86e147096d0c58574698c79319a3b3932013.jpg" class="fit-image" alt="Ímãs Nd Bonded">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/c36a5e53ec770f0cd585a39af6928bad0b1e444d.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/c36a5e53ec770f0cd585a39af6928bad0b1e444d.jpg" class="fit-image" alt="Ímãs Nd Bonded">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/ccf1ae0ce76c7f0fe75f1b9d53ffaac870fbc40c.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/ccf1ae0ce76c7f0fe75f1b9d53ffaac870fbc40c.jpg" class="fit-image" alt="Ímãs Nd Bonded">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/de9548ec210460d51d70d300b26cff1e75255bb9.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/de9548ec210460d51d70d300b26cff1e75255bb9.jpg" class="fit-image" alt="Ímãs Nd Bonded">
+									</figure>
+								</a>
+							</div>
+													</div>
+												
+					</div>
+				</div>
+								
+			</div>
+		</div>
+		<div class="container">
+			<div class="row items ">
+				
+								<div class="col-12 mt-5" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">
+					<div class="row item ">
+						<div class="col-12 col-md-12 p-0">
+							<h4 class="mb-2">Aplicación</h4>
+							
+														
+														<div class="produtos-grid_img">
+																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/28b3f1d93f2aff4fe30ffadc39a4c497262914d0.jpg" data-fancybox="aplication">
+			<img src="/arquivos/28b3f1d93f2aff4fe30ffadc39a4c497262914d0.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Sensores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Sensores</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/64f490e02b64ddfc21ac2f81e2f35c88d28f0a0e.jpg" data-fancybox="aplication">
+			<img src="/arquivos/64f490e02b64ddfc21ac2f81e2f35c88d28f0a0e.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Motores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Motores</span>
+	</div>
+</div>															</div>
+													</div>
+					</div>
+				</div>
+								
+								
+			</div>
+		</div>
+	</section>
+	
+	<section class="produtos-table">
+		<div class="container">
+			
+						<div class="produtos-table-wrapper">
+				<h3 class="mt-0">Tabela</h3>
+				<p class="frase-mobile">Arrastre hacia la derecha para ver más información.<i class="fas fa-long-arrow-alt-right"></i></p>
+				<div class="table-responsive">
+					<table class="table table-bordered nobottommargin" style="width: 931px;" border="0" cellspacing="0"><colgroup span="6" width="85"></colgroup>
+<tbody>
+<tr>
+<td style="width: 149.444px; border: 1px solid #c0c0c0;" rowspan="3" align="center" valign="middle" bgcolor="#3366FF" height="109"><strong><span style="color: #ffffff; font-family: Calibri; font-size: medium;">Grau</span></strong></td>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Br</span></strong></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Hc</span></strong></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Hci</span></strong></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">BH max</span></strong></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" rowspan="2" align="center" valign="middle"><strong><span style="color: #3366ff; font-family: Calibri; font-size: large;">Temperatura M&aacute;xima de Trabajo</span></strong></td>
+</tr>
+<tr>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;"><br />Remanente</span></strong></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;"><br />Fuerza Coercitiva</span></strong></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;">Fuerza Coercitiva Intr&iacute;nseco</span></strong></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><strong><span style="font-family: Calibri; font-size: large;">Producto de Energ&iacute;a M&aacute;xima</span></strong></td>
+</tr>
+<tr>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">G</span></strong></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">Oe</span></strong></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">Oe</span></strong></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">MGOe</span></strong></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" align="center" valign="middle"><strong><span style="font-family: Calibri;">C&ordm;</span></strong></td>
+</tr>
+<tr>
+<td style="width: 149.444px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">NB-4</span></strong></td>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">4.000 / 4.500</span></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">3.000 / 4.500</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">8.000 / 10.000</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">3,6 / 6,0</span></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">120</span></td>
+</tr>
+<tr>
+<td style="width: 149.444px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">NB-6</span></strong></td>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">6.000 / 7.000</span></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">4.500 / 5.500</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">8.000 / 10.000</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">6,0 / 8,0</span></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">120</span></td>
+</tr>
+<tr>
+<td style="width: 149.444px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">NB-8</span></strong></td>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">6.000 / 7.000</span></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">5.000 / 5.500</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">8.000 / 10.000</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">7,5 / 9,0</span></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">120</span></td>
+</tr>
+<tr>
+<td style="width: 149.444px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">NB-10</span></strong></td>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">6.500 / 7.000</span></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">5.000 / 5.500</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">8.000 / 10.000</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">9,0 / 10,0</span></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">120</span></td>
+</tr>
+<tr>
+<td style="width: 149.444px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#3366FF" height="26"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">NB-12</span></strong></td>
+<td style="width: 128.368px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">6.800 / 7.500</span></td>
+<td style="width: 134.392px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">5.500 / 6.000</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">8.000 / 10.000</span></td>
+<td style="width: 142.431px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">10,0 / 12,0</span></td>
+<td style="width: 149.479px; border: 1px solid #c0c0c0;" align="center" valign="middle" bgcolor="#EEEEEE"><span style="font-family: Calibri; font-size: medium;">120</span></td>
+</tr>
+</tbody>
+</table>					
+									</div>
+				<p class="frase-mobile">Arraste para o lado para ver mais informações<i class="fas fa-long-arrow-alt-right"></i></p>
+			</div> 
+						
+			<div class="col-12 justify-content-center input-group button-form_custom">
+				<form method="post" accept-charset="utf-8" class="" action="/orcamento/adicionar-produto-nos-detalhes/52"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="b90530fe4a432a65677535574da6f78275fef9e449541cf0b84f40a6f67d9076a8f04cd2e2691c2cb04cbb99de148d511655e8512a5b54cb44187e9328cec403"/></div>				
+					<input type="hidden" name="idioma" value="3">
+				
+					<button type="submit" class="btn mr-md-0  primary-button">
+						<i class="fa fa-envelope"></i>Hacer un presupuesto					</button>
+				</form>			</div>
+			
+						<div class="alert alert-danger" role="alert">
+				<p>&iexcl;ATENCI&Oacute;N! CUIDADO CON EQUIPO MAGN&Eacute;TICO: Informamos que las personas con alguna pr&oacute;tesis met&aacute;lica y / o marcapasos deben mantenerse alejadas de los equipos magn&eacute;ticos. Tenga el debido cuidado al manipular herramientas y / o piezas met&aacute;licas cerca de equipos magn&eacute;ticos, evitando posibles accidentes.</p>							</div>
+					</div>
+	</section>
+</main><footer>
+	<div class="bkg-hidden"></div>
+	
+	
+	<!-- Footer [links] -->
+	<section id="footer" class="odd footer">
+		<div class="container">
+			<div class="row items footer-content">
+				<div class="col-md-12 col-lg-12 p-0 footer-index foo">
+					<div class="row d-flex justify-content-start">
+						<!-- primeiro card -->
+					</div>
+
+					<!-- ************************************* -->
+
+					<div class="col-12 text-center  item redes-sociais">
+						<div class="brand col-12 d-flex justify-content-center logo__img-footer">
+							<a class="navbar-brand d-flex justify-content-center" href="/es">
+								<img class="logo__img" src="/images/Logo-02.png" alt="">
+							</a>
+						</div>
+
+						<ul class="navbar-nav share-list mt-0">
+							<h4 class="title">Síganos:</h4>
+							<ul class="share-list-sociais">
+								
+																
+																<li class="nav-item social">
+									<a href="https://www.instagram.com/explore/tags/brasilmagnets/" class="nav-link" target="_blanck">
+										<i class="icon-social-instagram"></i>
+									</a>
+								</li>
+																
+																<li class="nav-item social">
+									<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" class="nav-link" target="_blank">
+										<i class="icon-social-youtube">
+										</i>
+									</a>
+								</li>
+								
+															</ul>
+						</ul>
+
+							<div class="item contato-footer mt-3">
+								<h4 class="title">Ponerse en contacto</h4>
+								<ul class="navbar-nav navbar-custom">
+									
+																		<li class="nav-item">
+										<a href="tel:+551150410833">
+											<i class="icon-phone mr-2"></i>
+											+55 (11) 5041-0833										</a>
+
+																				<span style="color:#fff;">-</span>
+										<a href="tel:+551150962477">
+											+55 (11) 5096-2477										</a>
+																			</li>
+									
+																			<li class="nav-item">
+											<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank">
+												<i class="fab fa-whatsapp"></i>
+												+55 (11) 99380-2094											</a>
+										</li>
+																		
+																		<li class="nav-item">
+										<a href="mailto:vendas@brasilmagnets.com.br" class="nav-link">
+											<i class="icon-envelope mr-2"></i>
+											vendas@brasilmagnets.com.br										</a>
+									</li>
+																		
+																		<li class="nav-item">
+										<a class="nav-link" target="_blank"
+																							href="https://goo.gl/maps/vHRwGVvtxLUTjcfY6"
+																						>
+											<i class="icon-location-pin mr-2"></i>
+											Calle Conde de Porto Alegre, 1905 - Campo Belo São Paulo - SP 04608-003 										</a>
+									</li>
+																		
+									<li class="nav-item">
+										<a href="/es/politicaes"><i class="icon-check mr-2"></i> Política de privacidad</a>
+									</li>
+								</ul>
+								
+								<div class="copyright-text text-light text-start text-uppercase">
+									© Copyright 2023 Brasil Magnets. <br>
+								</div>
+								
+								<div class=" copyright-ellite ">
+									<a href="http://www.ellitedigital.com.br" title="Ellite Digital - Criação de Sites e Marketing Digital" target="_blank">
+										<img src="http://www.ellitedigital.com.br/logo-sites/logo-ellite-white.png" alt="Ellite Agência Digital">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<div class="footer-banner">
+		</div>
+	</section>
+	
+		<!-- BOTÃO whatsapp -->
+	<div class="btn-whatsapp-rounded-position">
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded desk">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded mob">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+	</div>
+	
+</footer>
+
+<!-- LGPD 
+<div id="lgpd-modal">
+        <div class="container">
+            <div class="lgpd-modal__flex">
+                <p class="lgpd-modal__desc">
+                    Usamos cookies para una mejor experiencia de navegación. Al continuar en el sitio, consideramos que está de acuerdo con nuestra                     	<a href="/es/politicaes" target="_blank"class="lgpd-modal__link">Política de privacidad		
+                    	</a>.
+                </p>
+                <button class="lgpd-modal__btn">
+                   Continuar y cerrar                </button>
+            </div>
+        </div>
+    </div>
+    LGPD -->
+
+<!-- Modal [search] -->
+<div id="search" class="p-0 modal fade" role="dialog" aria-labelledby="search" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Búsqueda <i class="icon-close"></i>
+			</div>
+			<div class="modal-body">
+
+				<form class="row" action="/es/productos" method="get">
+					
+					<div class="col-12 p-0 align-self-center">
+
+						<div class="row">
+							<div class="col-12 p-0 pb-3">
+								<h2>¿Qué estás buscando?</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group">
+								<input type="text" name="busca" class="form-control" placeholder="Escriba aquí" required>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group align-self-center">
+								<button type="submit" class="btn primary-button" id="botao">
+									<i class="icon-magnifier"></i>
+									Buscar								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Modal [responsive menu] -->
+<div id="menu" class="p-0 modal fade" role="dialog" aria-labelledby="menu" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Menú <i class="icon-close"></i>
+			</div>
+			<div class="menu modal-body">
+				<div class="row w-100">
+					<div class="items p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+					<div class="contacts p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="/js/vendor/jquery.min.js"></script>
+<script src="/js/js.js"> </script>
+
+<script src="/js/vendor/jquery.easing.min.js"></script>
+<script src="/js/vendor/jquery.inview.min.js"></script>
+<script src="/js/vendor/popper.min.js"></script>
+<script src="/js/vendor/bootstrap.min.js"></script>
+<script src="/js/vendor/ponyfill.min.js"></script>
+<script src="/js/vendor/slider.min.js"></script>
+<script src="/js/vendor/animation.min.js"></script>
+<script src="/js/vendor/progress-radial.min.js"></script>
+<script src="/js/vendor/bricklayer.min.js"></script>
+<script src="/js/vendor/gallery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/vendor/shuffle.min.js"></script>
+<script src="/js/vendor/cookie-notice.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/custom.js"></script>
+
+
+
+<script type="text/javascript">
+// captchas iniciados manualmente
+// o id é usado quando há mais de 2 captchas na mesma tela 
+var onloadCallbackcaptcha = function(){
+	$('[data-grecaptcha]').each(function(){
+		var id = grecaptcha.render(this, {
+			'sitekey' : $(this).attr('data-sitekey'),
+		});
+		
+		$(this).attr('data-grecaptcha', id);
+	});
+}
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackcaptcha&render=explicit"></script>
+
+<script src="/js/js.js"></script>
+
+<script>
+send_events_session();    
+</script>
+
+</body>
+
+</html>

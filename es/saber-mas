@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="es" class="">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+    
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+	<link href="/css/vendor/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/vendor/slider.min.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/vendor/icons.min.css" rel="stylesheet">
+	<link href="/css/vendor/animation.min.css" rel="stylesheet">
+	<link href="/css/vendor/gallery.min.css" rel="stylesheet">
+	<link href="/css/vendor/cookie-notice.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+	<link href="/css/custom.css?v=29062021" rel="stylesheet">
+
+	<link href="/css/default.css" rel="stylesheet">
+	<link href="/css/theme-blue.css" rel="stylesheet">
+
+	<style>
+		:root {
+			--header-bg-color: #111111;
+			--nav-item-color: #f5f5f5;
+			--hero-bg-color: #040402;
+
+			--section-1-bg-color: #eeeeee;
+			--section-2-bg-color: #f5f5f5;
+			--section-3-bg-color: #e5e5e5;
+			--section-4-bg-color: #eeeeee;
+			--section-5-bg-color: #f5f5f5;
+			--section-6-bg-color: #e5e5e5;
+			--section-7-bg-color: #eeeeee;
+			--section-8-bg-color: #e5e5e5;
+			--section-9-bg-color: #eeeeee;
+			--section-10-bg-color: #e5e5e5;
+			--section-11-bg-color: #f5f5f5;
+			--footer-bg-color: #111;
+		}
+	</style>
+	
+	<title>Saber más | Brasil Magnets</title>
+		<meta name="description" content="Brazil Magnets es el mayor importador de imanes y equipos magnéticos de Brasil. Consulte todo sobre el mercado de imanes. ¡Aquí encontrarás varios contenidos!"/>
+	<meta name="keywords" content="blog, noticias, tendencias, más información, mercado, arriba, noticias, más vendidos"/>
+
+	  
+<script>
+	gtag=function(a,b,c,d){console.log('-->', a, b, c)}
+</script>
+
+<script>
+	window.ENVIAR_EVENTOS_ANALYTICS = true;
+</script>
+
+	<link rel="alternate" hreflang="pt-BR" href="/saiba-mais" />
+	<link rel="alternate" hreflang="en-US" href="/en/find-out-more" />
+   
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-THZRJPB');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THZRJPB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Header -->
+<header id="header">
+
+	<!-- Navbar -->
+	<nav  class="navbar navbar-expand">
+		<div class="container header__top d-flex justify-content-center" style="
+		display: flex!important;
+		justify-content: space-between!important;">
+			<ul class="navbar-nav items">
+				
+								
+								<li class="nav-item social">
+					<a href="https://www.instagram.com/explore/tags/brasilmagnets/" target="_blank" class="nav-link">
+						<i class="icon-social-instagram"></i>
+					</a>
+				</li>
+				
+								<li class="nav-item social">
+					<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" target="_blank" class="nav-link">
+						<i class="icon-social-youtube"></i>
+					</a>
+				</li>
+				    
+
+								
+			</ul>
+			<ul class="navbar-nav items menu__tel">
+				
+								<ul class="flags">
+					
+										<a href="/saiba-mais" class="" title="Português">
+						<img src="/images/brasil.jpg" alt="">
+					</a>
+										<a href="/en/find-out-more" class="" title="English">
+						<img src="/images/eua.png" alt="">
+					</a>
+										<a href="/es/saber-mas" class="idioma-active" title="Español">
+						<img src="/images/espanha.jpg" alt="">
+					</a>
+									</ul>
+								
+								<li>
+					<a href="tel:+551150410833">
+						+55 (11) 5041-0833					</a>
+					
+										<span style="color:#fff;">-</span>
+					<a href="tel:+551150962477">
+						+55 (11) 5096-2477					</a>
+									</li>
+								
+			</ul>
+		</div>
+		<div class="container header">
+
+			<!-- Navbar Brand-->
+			<a class="navbar-brand img__absolute" href="/es">
+				<img src="/images/Logo-01.png" alt="">
+			</a>
+			<!-- Nav holder -->
+			<div class="ml-auto"></div>
+			<!-- Navbar Items -->
+			<ul class="navbar-nav items">
+				<li class="nav-item "> 
+					<a href="/es" 
+						class="nav-link " title="Home">
+						Home					</a>
+				</li>
+				<li class="nav-item">
+					<a href='/es/empresa' 
+						class="nav-link " title="Empresa">
+						Empresa					</a>
+				</li>
+								<li class="nav-item dropdown">
+					<a href="/es/productos" 
+					class="nav-link " title="Productos">
+						Productos						<i class="icon-arrow-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/20/imanes" title="Imanes">
+								
+								<span class="text-dark">Imanes</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/21/elevadores-magneticos" title="Elevadores Magneticos">
+								
+								<span class="text-dark">Elevadores Magneticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/23/dinamometro-digital" title="Dinamómetro Digital">
+								
+								<span class="text-dark">Dinamómetro Digital</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/24/separacion-magnetica" title="Separación magnética">
+								
+								<span class="text-dark">Separación magnética</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/25/utensilios-magneticos" title="Utensilios Magnéticos">
+								
+								<span class="text-dark">Utensilios Magnéticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/es/productos/26/imanes-creativos" title="Imanes Creativos">
+								
+								<span class="text-dark">Imanes Creativos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+											</ul>
+				</li>
+								
+								<li class="nav-item ">
+					<a href="/es/saber-mas" class="nav-link active" title="Saber más">
+						Saber más					</a>
+				</li>
+								
+				<li class="nav-item ">
+					<a class="nav-link " href="/es/presupuesto" title="Presupuesto">
+						Presupuesto					</a>
+				</li>
+
+				<li class="nav-item ">
+					<a href="/es/contacto" 
+						class="nav-link " title="Contacto">
+						Contacto					</a>
+				</li>
+				
+			</ul>
+			<!-- Navbar Icons -->
+			<ul class="navbar-nav icons">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#search">
+						<i class="icon-magnifier"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Toggle -->
+			<ul class="navbar-nav toggle">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#menu">
+						<i class="icon-menu m-0"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Action -->
+						<ul class="navbar-nav action">
+				<li class="nav-item ml-3">
+					<a class="btn__header btn ml-lg-auto primary-button loja__virtual" href="https://www.lojadoima.com.br" target="_blank">
+						Tienda online					</a>
+				</li>
+			</ul>
+			   
+		</div>
+	</nav>
+</header><section id="blog" class="section-1 showcase blog-grid masonry section__internas">
+	<div class="container" >
+		<div class="row intro mb-3" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="400">
+			<div class="col-12 col-md-9 align-self-center text-center text-md-left">
+				<h1 class="featured">Saber más</h2>
+			</div>
+		</div>
+		
+		<div class="row content blog-grid masonry" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600">
+			<div class="col-12 p-0">
+				<div class="card-columns items">
+																		<a href="/es/saber-mas/detalle/26/aumento-del-precio-del-iman-de-neodimio" title="Aumento del Precio del Imán de Neodimio">
+	<div class="row card p-0 text-center">
+		
+				<div class="image-over">
+			<img alt="Aumento del Precio del Imán de Neodimio" src="/arquivos/6e270ad2c782867681506911112f697b5a3effe2.jpg">
+		</div>
+				
+		<div class="card-caption col-12 p-0">
+			<div class="card-body">
+				<h4 class="m-0">Aumento del Precio del Imán de Neodimio</h4>
+								<p>Después de dos años, la subida de precios de los Imanes de Neodimio era inevitable, por lo que en este texto explicamos con más detalle los motivos.</p>
+							</div>
+			
+					</div>
+	</div>
+</a>													<a href="/es/saber-mas/detalle/25/topografo-de-imanes-de-brasil" title="Topógrafo de imanes de Brasil">
+	<div class="row card p-0 text-center">
+		
+				<div class="image-over">
+			<img alt="Topógrafo de imanes de Brasil" src="/arquivos/b8292d1778627b99717822f0dfb4ecbf3b65333c.jpg">
+		</div>
+				
+		<div class="card-caption col-12 p-0">
+			<div class="card-body">
+				<h4 class="m-0">Topógrafo de imanes de Brasil</h4>
+								<p>Nuestros elevadores magnéticos son equipos compactos que se pueden utilizar para levantar y transportar placas, barras y bloques de acero, entre otros.</p>
+							</div>
+			
+					</div>
+	</div>
+</a>													<a href="/es/saber-mas/detalle/24/pesca-magnetica" title="Pesca magnética">
+	<div class="row card p-0 text-center">
+		
+				<div class="image-over">
+			<img alt="Pesca magnética" src="/arquivos/ae19fc7e0fc1291422cd43ea1fdc7204c454e8b5.jpg">
+		</div>
+				
+		<div class="card-caption col-12 p-0">
+			<div class="card-body">
+				<h4 class="m-0">Pesca magnética</h4>
+								<p>A diferencia de la pesca con peces, la pesca con imanes permanentes proporciona resultados más rápidos para atrapar cualquier cosa!</p>
+							</div>
+			
+					</div>
+	</div>
+</a>													<a href="/es/saber-mas/detalle/23/empresa-sustentable" title="Empresa Sustentable">
+	<div class="row card p-0 text-center">
+		
+				<div class="image-over">
+			<img alt="Empresa Sustentable" src="/arquivos/2af965e80de1ffd39fca5d2512ba20c863601c7b.jpg">
+		</div>
+				
+		<div class="card-caption col-12 p-0">
+			<div class="card-body">
+				<h4 class="m-0">Empresa Sustentable</h4>
+								<p>Estamos tomando medidas e invirtiendo en mejoras para reducir nuestro impacto ambiental. ¡Ven a verlo!</p>
+							</div>
+			
+					</div>
+	</div>
+</a>															</div>
+			</div>
+		</div>
+	</div>
+	
+	</section><footer>
+	<div class="bkg-hidden"></div>
+	
+	
+	<!-- Footer [links] -->
+	<section id="footer" class="odd footer">
+		<div class="container">
+			<div class="row items footer-content">
+				<div class="col-md-12 col-lg-12 p-0 footer-index foo">
+					<div class="row d-flex justify-content-start">
+						<!-- primeiro card -->
+					</div>
+
+					<!-- ************************************* -->
+
+					<div class="col-12 text-center  item redes-sociais">
+						<div class="brand col-12 d-flex justify-content-center logo__img-footer">
+							<a class="navbar-brand d-flex justify-content-center" href="/es">
+								<img class="logo__img" src="/images/Logo-02.png" alt="">
+							</a>
+						</div>
+
+						<ul class="navbar-nav share-list mt-0">
+							<h4 class="title">Síganos:</h4>
+							<ul class="share-list-sociais">
+								
+																
+																<li class="nav-item social">
+									<a href="https://www.instagram.com/explore/tags/brasilmagnets/" class="nav-link" target="_blanck">
+										<i class="icon-social-instagram"></i>
+									</a>
+								</li>
+																
+																<li class="nav-item social">
+									<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" class="nav-link" target="_blank">
+										<i class="icon-social-youtube">
+										</i>
+									</a>
+								</li>
+								
+															</ul>
+						</ul>
+
+							<div class="item contato-footer mt-3">
+								<h4 class="title">Ponerse en contacto</h4>
+								<ul class="navbar-nav navbar-custom">
+									
+																		<li class="nav-item">
+										<a href="tel:+551150410833">
+											<i class="icon-phone mr-2"></i>
+											+55 (11) 5041-0833										</a>
+
+																				<span style="color:#fff;">-</span>
+										<a href="tel:+551150962477">
+											+55 (11) 5096-2477										</a>
+																			</li>
+									
+																			<li class="nav-item">
+											<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank">
+												<i class="fab fa-whatsapp"></i>
+												+55 (11) 99380-2094											</a>
+										</li>
+																		
+																		<li class="nav-item">
+										<a href="mailto:vendas@brasilmagnets.com.br" class="nav-link">
+											<i class="icon-envelope mr-2"></i>
+											vendas@brasilmagnets.com.br										</a>
+									</li>
+																		
+																		<li class="nav-item">
+										<a class="nav-link" target="_blank"
+																							href="https://goo.gl/maps/vHRwGVvtxLUTjcfY6"
+																						>
+											<i class="icon-location-pin mr-2"></i>
+											Calle Conde de Porto Alegre, 1905 - Campo Belo São Paulo - SP 04608-003 										</a>
+									</li>
+																		
+									<li class="nav-item">
+										<a href="/es/politicaes"><i class="icon-check mr-2"></i> Política de privacidad</a>
+									</li>
+								</ul>
+								
+								<div class="copyright-text text-light text-start text-uppercase">
+									© Copyright 2023 Brasil Magnets. <br>
+								</div>
+								
+								<div class=" copyright-ellite ">
+									<a href="http://www.ellitedigital.com.br" title="Ellite Digital - Criação de Sites e Marketing Digital" target="_blank">
+										<img src="http://www.ellitedigital.com.br/logo-sites/logo-ellite-white.png" alt="Ellite Agência Digital">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<div class="footer-banner">
+		</div>
+	</section>
+	
+		<!-- BOTÃO whatsapp -->
+	<div class="btn-whatsapp-rounded-position">
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded desk">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded mob">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+	</div>
+	
+</footer>
+
+<!-- LGPD 
+<div id="lgpd-modal">
+        <div class="container">
+            <div class="lgpd-modal__flex">
+                <p class="lgpd-modal__desc">
+                    Usamos cookies para una mejor experiencia de navegación. Al continuar en el sitio, consideramos que está de acuerdo con nuestra                     	<a href="/es/politicaes" target="_blank"class="lgpd-modal__link">Política de privacidad		
+                    	</a>.
+                </p>
+                <button class="lgpd-modal__btn">
+                   Continuar y cerrar                </button>
+            </div>
+        </div>
+    </div>
+    LGPD -->
+
+<!-- Modal [search] -->
+<div id="search" class="p-0 modal fade" role="dialog" aria-labelledby="search" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Búsqueda <i class="icon-close"></i>
+			</div>
+			<div class="modal-body">
+
+				<form class="row" action="/es/productos" method="get">
+					
+					<div class="col-12 p-0 align-self-center">
+
+						<div class="row">
+							<div class="col-12 p-0 pb-3">
+								<h2>¿Qué estás buscando?</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group">
+								<input type="text" name="busca" class="form-control" placeholder="Escriba aquí" required>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group align-self-center">
+								<button type="submit" class="btn primary-button" id="botao">
+									<i class="icon-magnifier"></i>
+									Buscar								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Modal [responsive menu] -->
+<div id="menu" class="p-0 modal fade" role="dialog" aria-labelledby="menu" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Menú <i class="icon-close"></i>
+			</div>
+			<div class="menu modal-body">
+				<div class="row w-100">
+					<div class="items p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+					<div class="contacts p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="/js/vendor/jquery.min.js"></script>
+<script src="/js/js.js"> </script>
+
+<script src="/js/vendor/jquery.easing.min.js"></script>
+<script src="/js/vendor/jquery.inview.min.js"></script>
+<script src="/js/vendor/popper.min.js"></script>
+<script src="/js/vendor/bootstrap.min.js"></script>
+<script src="/js/vendor/ponyfill.min.js"></script>
+<script src="/js/vendor/slider.min.js"></script>
+<script src="/js/vendor/animation.min.js"></script>
+<script src="/js/vendor/progress-radial.min.js"></script>
+<script src="/js/vendor/bricklayer.min.js"></script>
+<script src="/js/vendor/gallery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/vendor/shuffle.min.js"></script>
+<script src="/js/vendor/cookie-notice.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/custom.js"></script>
+
+
+
+<script type="text/javascript">
+// captchas iniciados manualmente
+// o id é usado quando há mais de 2 captchas na mesma tela 
+var onloadCallbackcaptcha = function(){
+	$('[data-grecaptcha]').each(function(){
+		var id = grecaptcha.render(this, {
+			'sitekey' : $(this).attr('data-sitekey'),
+		});
+		
+		$(this).attr('data-grecaptcha', id);
+	});
+}
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackcaptcha&render=explicit"></script>
+
+<script src="/js/js.js"></script>
+
+<script>
+send_events_session();    
+</script>
+
+</body>
+
+</html>

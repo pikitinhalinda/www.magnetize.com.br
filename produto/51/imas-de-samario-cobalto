@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+    
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+	<link href="/css/vendor/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/vendor/slider.min.css" rel="stylesheet">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/vendor/icons.min.css" rel="stylesheet">
+	<link href="/css/vendor/animation.min.css" rel="stylesheet">
+	<link href="/css/vendor/gallery.min.css" rel="stylesheet">
+	<link href="/css/vendor/cookie-notice.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+	<link href="/css/custom.css?v=29062021" rel="stylesheet">
+
+	<link href="/css/default.css" rel="stylesheet">
+	<link href="/css/theme-blue.css" rel="stylesheet">
+
+	<style>
+		:root {
+			--header-bg-color: #111111;
+			--nav-item-color: #f5f5f5;
+			--hero-bg-color: #040402;
+
+			--section-1-bg-color: #eeeeee;
+			--section-2-bg-color: #f5f5f5;
+			--section-3-bg-color: #e5e5e5;
+			--section-4-bg-color: #eeeeee;
+			--section-5-bg-color: #f5f5f5;
+			--section-6-bg-color: #e5e5e5;
+			--section-7-bg-color: #eeeeee;
+			--section-8-bg-color: #e5e5e5;
+			--section-9-bg-color: #eeeeee;
+			--section-10-bg-color: #e5e5e5;
+			--section-11-bg-color: #f5f5f5;
+			--footer-bg-color: #111;
+		}
+	</style>
+	
+	<title>Ímãs de Samário Cobalto | Brasil Magnets</title>
+		<meta name="description" content="A Brasil Magnets é a maior importadora de Ímãs e Equipamentos Magnéticos no Brasil. Nosso catálogo conta com uma ampla gama de ímãs e equipamentos. Confira."/>
+	<meta name="keywords" content="catalogo, produtos, variedade, imas, equipamentos, brasil magnets, magnetico, neodimio, ferrite, alnico, samario, cobalto, bonded, biomagnetismo, neocube, dinamometro, levantador, grade, magnetica, separacao, imantado, campo belo, são paulo"/>
+
+
+<script>
+	gtag=function(a,b,c,d){console.log('-->', a, b, c)}
+</script>
+
+<script>
+	window.ENVIAR_EVENTOS_ANALYTICS = true;
+</script>
+
+	<link rel="alternate" hreflang="en-US" href="/en/produto/51/samarium-cobalt-magnets" />
+	<link rel="alternate" hreflang="es" href="/es/produto/51/imanes-de-samario-cobalto" />
+   
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-THZRJPB');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THZRJPB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Header -->
+<header id="header">
+
+	<!-- Navbar -->
+	<nav  class="navbar navbar-expand">
+		<div class="container header__top d-flex justify-content-center" style="
+		display: flex!important;
+		justify-content: space-between!important;">
+			<ul class="navbar-nav items">
+				
+								
+								<li class="nav-item social">
+					<a href="https://www.instagram.com/explore/tags/brasilmagnets/" target="_blank" class="nav-link">
+						<i class="icon-social-instagram"></i>
+					</a>
+				</li>
+				
+								<li class="nav-item social">
+					<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" target="_blank" class="nav-link">
+						<i class="icon-social-youtube"></i>
+					</a>
+				</li>
+				    
+
+								
+			</ul>
+			<ul class="navbar-nav items menu__tel">
+				
+								<ul class="flags">
+					
+										<a href="/produto/51/imas-de-samario-cobalto" class="idioma-active" title="Português">
+						<img src="/images/brasil.jpg" alt="">
+					</a>
+										<a href="/en/produto/51/samarium-cobalt-magnets" class="" title="English">
+						<img src="/images/eua.png" alt="">
+					</a>
+										<a href="/es/produto/51/imanes-de-samario-cobalto" class="" title="Español">
+						<img src="/images/espanha.jpg" alt="">
+					</a>
+									</ul>
+								
+								<li>
+					<a href="tel:+551150410833">
+						(11) 5041-0833					</a>
+					
+										<span style="color:#fff;">-</span>
+					<a href="tel:+551150962477">
+						(11) 5096-2477					</a>
+									</li>
+								
+			</ul>
+		</div>
+		<div class="container header">
+
+			<!-- Navbar Brand-->
+			<a class="navbar-brand img__absolute" href="/">
+				<img src="/images/Logo-01.png" alt="">
+			</a>
+			<!-- Nav holder -->
+			<div class="ml-auto"></div>
+			<!-- Navbar Items -->
+			<ul class="navbar-nav items">
+				<li class="nav-item "> 
+					<a href="/" 
+						class="nav-link " title="Home">
+						Home					</a>
+				</li>
+				<li class="nav-item">
+					<a href='/empresa' 
+						class="nav-link " title="Empresa">
+						Empresa					</a>
+				</li>
+								<li class="nav-item dropdown">
+					<a href="/produtos" 
+					class="nav-link active" title="Produtos">
+						Produtos						<i class="icon-arrow-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/produtos/20/imas" title="Ímãs">
+								
+								<span class="text-dark">Ímãs</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/produtos/21/levantadores-magneticos" title="Levantadores Magnéticos">
+								
+								<span class="text-dark">Levantadores Magnéticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/produtos/23/dinamometro-digital" title="Dinamômetro Digital">
+								
+								<span class="text-dark">Dinamômetro Digital</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/produtos/24/separacao-magnetica" title="Separação Magnética">
+								
+								<span class="text-dark">Separação Magnética</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/produtos/25/utensilios-magneticos" title="Utensílios Magnéticos">
+								
+								<span class="text-dark">Utensílios Magnéticos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+												
+						<li class="nav-item dropdown">
+							
+							<a href="/produtos/26/imas-criativos" title="Ímãs Criativos">
+								
+								<span class="text-dark">Ímãs Criativos</span>
+								
+																
+							</a>
+							
+														
+						</li>
+											</ul>
+				</li>
+								
+								<li class="nav-item ">
+					<a href="/saiba-mais" class="nav-link " title="Saiba Mais">
+						Saiba Mais					</a>
+				</li>
+								
+				<li class="nav-item ">
+					<a class="nav-link " href="/orcamento" title="Orçamento">
+						Orçamento					</a>
+				</li>
+
+				<li class="nav-item ">
+					<a href="/contato" 
+						class="nav-link " title="Contato">
+						Contato					</a>
+				</li>
+				
+			</ul>
+			<!-- Navbar Icons -->
+			<ul class="navbar-nav icons">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#search">
+						<i class="icon-magnifier"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Toggle -->
+			<ul class="navbar-nav toggle">
+				<li class="nav-item">
+					<a href="#" class="nav-link" data-toggle="modal" data-target="#menu">
+						<i class="icon-menu m-0"></i>
+					</a>
+				</li>
+			</ul>
+			<!-- Navbar Action -->
+						<ul class="navbar-nav action">
+				<li class="nav-item ml-3">
+					<a class="btn__header btn ml-lg-auto primary-button loja__virtual" href="https://www.lojadoima.com.br" target="_blank">
+						Loja Virtual					</a>
+				</li>
+			</ul>
+			   
+		</div>
+	</nav>
+</header><main id="produtos">
+	<section id="about" class="section-1 highlights image-right section__internas">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-md-6">
+					<div class="col-12 p-0 col-md-12 align-self-center text-md-left">
+						<div class="row intro">
+							<div class="col-12 p-0">
+								<h1 class="featured alt" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="400">
+									Ímãs de Samário Cobalto								</h1>
+								<div data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
+									<h4>Descrição</h4>
+									<p>Os &iacute;m&atilde;s de Sam&aacute;rio Cobalto (SmCo) foram os primeiros &iacute;m&atilde;s de terras raras a serem desenvolvidos e representam um marco na produ&ccedil;&atilde;o dos super &iacute;m&atilde;s juntamente com os &Iacute;m&atilde;s de neod&iacute;mio. O escopo de uso dos &iacute;m&atilde;s de sam&aacute;rio cobalto &eacute; muito semelhante ao do neod&iacute;mio, obtendo uma infinidade de aplica&ccedil;&otilde;es dentro e fora da ind&uacute;stria, outro ponto positivo &eacute; capacidade de trabalhar em altas temperaturas e com altos valores de energia.</p>
+<p>S&atilde;o produzidos atrav&eacute;s da combina&ccedil;&atilde;o de mat&eacute;rias-primas sam&aacute;rio e cobalto, fabricados por processo de sinteriza&ccedil;&atilde;o (sinterizados) ou aglomera&ccedil;&atilde;o (bonded). Possuem excelente comportamento contra a corros&atilde;o e a oxida&ccedil;&atilde;o. Tamb&eacute;m mant&eacute;m uma estabilidade &agrave; curva magn&eacute;tica gra&ccedil;as &agrave; alta temperatura de Curie.</p>
+<p>&Eacute; um material com valores coercitivos muito positivos, um fator que favorece a resist&ecirc;ncia &agrave; desmagnetiza&ccedil;&atilde;o, aliado &agrave; alta resist&ecirc;ncia a altas temperaturas de at&eacute; 350&ordm;C e tem a peculiaridade de ser usado em temperaturas abaixo de 0&ordm;C. Caracter&iacute;sticas importantes que fazem com que esses &iacute;m&atilde;s sejam indispens&aacute;veis para determinadas aplica&ccedil;&otilde;es, muito usado e recomendado para o setor industrial.</p>
+<p>&Eacute; importante saber que por ser um material com alta dureza, deve ser manipulado apenas com ferramentas que incorporam diamante, para cortar ou modificar o &iacute;m&atilde;. Como estes &iacute;m&atilde;s t&ecirc;m um alto percentual de Cobalto, s&atilde;o normalmente mais caros que o &iacute;m&atilde; de neod&iacute;mio e eventualmente sujeitos a varia&ccedil;&otilde;es dos pre&ccedil;os de mat&eacute;rias primas, fato caracter&iacute;stico do Cobalto.</p>
+<p>Nosso portf&oacute;lio conta com uma infinidade de formatos, medidas e for&ccedil;as magn&eacute;ticas em diferentes graus SmCo5 e Sm2Co17.</p>
+<p>Na Brasil Magnets voc&ecirc; encontra &iacute;m&atilde;s de sam&aacute;rio cobalto dispon&iacute;vel em diversos tipos de formatos e medidas que ir&aacute; lhe atender no que voc&ecirc; precisar! Consulte nossos especialistas.</p>								</div>
+							</div>
+						</div>
+						<div class="row items" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="600">
+							<div class="col-12 p-0">
+								
+								<div class="row item">
+									<form method="post" accept-charset="utf-8" class="" action="/orcamento/adicionar-produto-nos-detalhes/51"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="b90530fe4a432a65677535574da6f78275fef9e449541cf0b84f40a6f67d9076a8f04cd2e2691c2cb04cbb99de148d511655e8512a5b54cb44187e9328cec403"/></div>									
+									<input type="hidden" name="idioma" value="1">
+									
+									<div class="col-12 p-0">
+										<button type="submit" class="btn mr-md-0  primary-button">
+											<i class="fa fa-envelope"></i>Faça um orçamento										</button>
+									</div>
+									</form>								</div>
+								
+								
+															</div>
+						</div>
+					</div>
+				</div>
+				
+								<div class="col-md-6">
+					<div class="slick-simple slick-simple__wrapper ">
+						
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/58978f945fc7bdf8217babf21a0040622c59b9a0.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/58978f945fc7bdf8217babf21a0040622c59b9a0.jpg" class="fit-image" alt="Samário Cobalto">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/22417fcdc8013fa1f67f1c625bc66acc47570665.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/22417fcdc8013fa1f67f1c625bc66acc47570665.jpg" class="fit-image" alt="Samário Cobalto">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/b2b224813f55c5fe72ff9903570e105fb17fe224.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/b2b224813f55c5fe72ff9903570e105fb17fe224.jpg" class="fit-image" alt="Samário Cobalto">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/2df37631a3f695ab33ec00bd7307907a9b061d73.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/2df37631a3f695ab33ec00bd7307907a9b061d73.jpg" class="fit-image" alt="Samário Cobalto">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/9f13d39c22f985ed7fdf6d21d7c3340fade76028.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/9f13d39c22f985ed7fdf6d21d7c3340fade76028.jpg" class="fit-image" alt="Samário Cobalto">
+									</figure>
+								</a>
+							</div>
+													</div>
+												<div>
+														<div class="gallery">
+								<a href="/arquivos/20d9bd1584025f7fd105d73098d3f8bcf4ebf53e.jpg" data-fancybox="gallery">
+									<figure class="figure__custom">
+										<img src="/arquivos/20d9bd1584025f7fd105d73098d3f8bcf4ebf53e.jpg" class="fit-image" alt="Samário Cobalto">
+									</figure>
+								</a>
+							</div>
+													</div>
+												
+					</div>
+				</div>
+								
+			</div>
+		</div>
+		<div class="container">
+			<div class="row items ">
+				
+								<div class="col-12 mt-5" data-aos="fade-right" data-aos-duration="1200" data-aos-delay="300">
+					<div class="row item ">
+						<div class="col-12 col-md-12 p-0">
+							<h4 class="mb-2">Aplicação</h4>
+							
+														
+														<div class="produtos-grid_img">
+																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/28b3f1d93f2aff4fe30ffadc39a4c497262914d0.jpg" data-fancybox="aplication">
+			<img src="/arquivos/28b3f1d93f2aff4fe30ffadc39a4c497262914d0.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Sensores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Sensores</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/cbc1e1349e319d3eba77b0670e99e2eb25b7e3ae.jpg" data-fancybox="aplication">
+			<img src="/arquivos/cbc1e1349e319d3eba77b0670e99e2eb25b7e3ae.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Alto-Falantes</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Alto-Falantes</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/bec06ee06a8a9a94ae15d333a2bad93cc167efc7.jpg" data-fancybox="aplication">
+			<img src="/arquivos/bec06ee06a8a9a94ae15d333a2bad93cc167efc7.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Aceleradores de Partículas</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Aceleradores de Partículas</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/033553bdaee9644abea9ba48df10a00348b31c6d.jpg" data-fancybox="aplication">
+			<img src="/arquivos/033553bdaee9644abea9ba48df10a00348b31c6d.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Servomotores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Servomotores</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/64f490e02b64ddfc21ac2f81e2f35c88d28f0a0e.jpg" data-fancybox="aplication">
+			<img src="/arquivos/64f490e02b64ddfc21ac2f81e2f35c88d28f0a0e.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Motores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Motores</span>
+	</div>
+</div>																	<div style="width:100%; float:left">
+	<div class="produtos-grid_img-box">
+		<a href="/arquivos/893355de54d05d7e70a1a23079f4286f0a7fe487.jpg" data-fancybox="aplication">
+			<img src="/arquivos/893355de54d05d7e70a1a23079f4286f0a7fe487.jpg" alt="">
+			<div class="produtos-grid_legend">
+				<span>Atuadores</span>
+			</div>			
+		</a>		
+	</div>
+	<div class="nome-detalhe">
+		<span>Atuadores</span>
+	</div>
+</div>															</div>
+													</div>
+					</div>
+				</div>
+								
+								
+			</div>
+		</div>
+	</section>
+	
+	<section class="produtos-table">
+		<div class="container">
+			
+						<div class="produtos-table-wrapper">
+				<h3 class="mt-0">Características Magnéticas</h3>
+				<p class="frase-mobile">Arraste para o lado para ver mais informações<i class="fas fa-long-arrow-alt-right"></i></p>
+				<div class="table-responsive">
+					<table class="table table-bordered nobottommargin" border="0" cellspacing="0"><colgroup width="153"></colgroup> <colgroup width="79"></colgroup> <colgroup span="5" width="153"></colgroup>
+<tbody>
+<tr>
+<td style="border: 1px solid #d9d9d9;" rowspan="3" align="center" valign="middle" bgcolor="#2577F0" height="160"><strong><span style="color: #ffffff; font-family: Calibri; font-size: medium;">Liga</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" rowspan="3" align="center" valign="middle"><strong><span style="font-family: Calibri; font-size: medium;">Grau</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="color: #2577f0; font-family: Calibri; font-size: large;">Br</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="color: #2577f0; font-family: Calibri; font-size: large;">Hc</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="color: #2577f0; font-family: Calibri; font-size: large;">Hci</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="color: #2577f0; font-family: Calibri; font-size: large;">BH max</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" rowspan="2" align="center" valign="middle"><strong><span style="color: #2577f0; font-family: Calibri; font-size: large;">Temperatura M&aacute;xima de Trabalho</span></strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><strong><span style="font-family: Calibri; font-size: large;">Reman&ecirc;ncia</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><strong><span style="font-family: Calibri; font-size: large;">For&ccedil;a Coercitiva</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><strong><span style="font-family: Calibri; font-size: large;">For&ccedil;a Coercitiva<br />Intr&iacute;nseca</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><strong>Produto de</strong><br /><strong>Energia M&aacute;xima</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri;">G</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri;">Oe</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri;">Oe</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri;">MGOe</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri;">C&ordm;</span></strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" rowspan="2" align="center" valign="middle" bgcolor="#2577F0" height="80"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">SmCo5</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri; font-size: medium;">18</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">8.000 / 9.300</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">7.500 / 8.500</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">&gt;18.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">16,0 / 20,0</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">250</span></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri; font-size: medium;">22</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">9.000 / 10.300</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">7.700 / 8.700</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">&gt;18.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">20,0 / 24,0</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">250</span></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" rowspan="3" align="center" valign="middle" bgcolor="#2577F0" height="120"><strong><span style="color: #ffffff; font-family: Calibri; font-size: large;">Sm2Co17</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri; font-size: medium;">24</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">9.800 / 10.800</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">8.000 / 9.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">&gt;20.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">22,0 / 26,0</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">350</span></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri; font-size: medium;">28</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">10.300 / 11.300</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">9.000 / 10.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">&gt;20.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">26,0 / 30,0</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle" bgcolor="#F2F2F2"><span style="font-family: Calibri; font-size: medium;">350</span></td>
+</tr>
+<tr>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><strong><span style="font-family: Calibri; font-size: medium;">30</span></strong></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">11.000 / 12.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">9.500 / 10.500</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">&gt;20.000</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">28,0 / 32,0</span></td>
+<td style="border: 1px solid #d9d9d9;" align="center" valign="middle"><span style="font-family: Calibri; font-size: medium;">350</span></td>
+</tr>
+</tbody>
+</table>					
+									</div>
+				<p class="frase-mobile">Arraste para o lado para ver mais informações<i class="fas fa-long-arrow-alt-right"></i></p>
+			</div> 
+						
+			<div class="col-12 justify-content-center input-group button-form_custom">
+				<form method="post" accept-charset="utf-8" class="" action="/orcamento/adicionar-produto-nos-detalhes/51"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="b90530fe4a432a65677535574da6f78275fef9e449541cf0b84f40a6f67d9076a8f04cd2e2691c2cb04cbb99de148d511655e8512a5b54cb44187e9328cec403"/></div>				
+					<input type="hidden" name="idioma" value="1">
+				
+					<button type="submit" class="btn mr-md-0  primary-button">
+						<i class="fa fa-envelope"></i>Faça um orçamento					</button>
+				</form>			</div>
+			
+						<div class="alert alert-danger" role="alert">
+				<p>ATEN&Ccedil;&Atilde;O! CUIDADOS COM EQUIPAMENTOS MAGN&Eacute;TICOS: Informamos que pessoas portadoras de alguma pr&oacute;tese met&aacute;lica e/ou marca-passo devem manter dist&acirc;ncia de equipamentos magn&eacute;ticos. Tome os devidos cuidados ao manusear ferramentas e/ou pe&ccedil;as met&aacute;licas pr&oacute;ximas a equipamentos magn&eacute;ticos, prevenindo-se de poss&iacute;veis acidentes.</p>							</div>
+					</div>
+	</section>
+</main><footer>
+	<div class="bkg-hidden"></div>
+	
+	
+	<!-- Footer [links] -->
+	<section id="footer" class="odd footer">
+		<div class="container">
+			<div class="row items footer-content">
+				<div class="col-md-12 col-lg-12 p-0 footer-index foo">
+					<div class="row d-flex justify-content-start">
+						<!-- primeiro card -->
+					</div>
+
+					<!-- ************************************* -->
+
+					<div class="col-12 text-center  item redes-sociais">
+						<div class="brand col-12 d-flex justify-content-center logo__img-footer">
+							<a class="navbar-brand d-flex justify-content-center" href="/">
+								<img class="logo__img" src="/images/Logo-02.png" alt="">
+							</a>
+						</div>
+
+						<ul class="navbar-nav share-list mt-0">
+							<h4 class="title">Siga-nos:</h4>
+							<ul class="share-list-sociais">
+								
+																
+																<li class="nav-item social">
+									<a href="https://www.instagram.com/explore/tags/brasilmagnets/" class="nav-link" target="_blanck">
+										<i class="icon-social-instagram"></i>
+									</a>
+								</li>
+																
+																<li class="nav-item social">
+									<a href="https://www.youtube.com/channel/UClz1ijgcGl1puLzkZKEMNnw" class="nav-link" target="_blank">
+										<i class="icon-social-youtube">
+										</i>
+									</a>
+								</li>
+								
+															</ul>
+						</ul>
+
+							<div class="item contato-footer mt-3">
+								<h4 class="title">Entre em contato</h4>
+								<ul class="navbar-nav navbar-custom">
+									
+																		<li class="nav-item">
+										<a href="tel:+551150410833">
+											<i class="icon-phone mr-2"></i>
+											(11) 5041-0833										</a>
+
+																				<span style="color:#fff;">-</span>
+										<a href="tel:+551150962477">
+											(11) 5096-2477										</a>
+																			</li>
+									
+																			<li class="nav-item">
+											<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank">
+												<i class="fab fa-whatsapp"></i>
+												(11) 99380-2094											</a>
+										</li>
+																		
+																		<li class="nav-item">
+										<a href="mailto:vendas@brasilmagnets.com.br" class="nav-link">
+											<i class="icon-envelope mr-2"></i>
+											vendas@brasilmagnets.com.br										</a>
+									</li>
+																		
+																		<li class="nav-item">
+										<a class="nav-link" target="_blank"
+																							href="https://goo.gl/maps/vHRwGVvtxLUTjcfY6"
+																						>
+											<i class="icon-location-pin mr-2"></i>
+											Rua Conde de Porto Alegre, 1905 - Campo Belo São Paulo - SP 04608-003 										</a>
+									</li>
+																		
+									<li class="nav-item">
+										<a href="/politica"><i class="icon-check mr-2"></i> Política de Privacidade</a>
+									</li>
+								</ul>
+								
+								<div class="copyright-text text-light text-start text-uppercase">
+									© Copyright 2023 Brasil Magnets. <br>
+								</div>
+								
+								<div class=" copyright-ellite ">
+									<a href="http://www.ellitedigital.com.br" title="Ellite Digital - Criação de Sites e Marketing Digital" target="_blank">
+										<img src="http://www.ellitedigital.com.br/logo-sites/logo-ellite-white.png" alt="Ellite Agência Digital">
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<div class="footer-banner">
+		</div>
+	</section>
+	
+		<!-- BOTÃO whatsapp -->
+	<div class="btn-whatsapp-rounded-position">
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded desk">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+		<a href="https://api.whatsapp.com/send?phone=5511993802094" target="_blank" class="btn-whatsapp-rounded mob">
+			<i class="fab fa-whatsapp"></i>
+			<span></span>
+		</a>
+	</div>
+	
+</footer>
+
+<!-- LGPD 
+<div id="lgpd-modal">
+        <div class="container">
+            <div class="lgpd-modal__flex">
+                <p class="lgpd-modal__desc">
+                    Nós utilizamos cookies para uma melhor experiência de navegação. Ao continuar no site, consideramos que você está de acordo com nossa                    	<a href="/politica" target="_blank"class="lgpd-modal__link">Política de Privacidade		
+                    	</a>.
+                </p>
+                <button class="lgpd-modal__btn">
+                   Continuar e fechar                </button>
+            </div>
+        </div>
+    </div>
+    LGPD -->
+
+<!-- Modal [search] -->
+<div id="search" class="p-0 modal fade" role="dialog" aria-labelledby="search" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Busca <i class="icon-close"></i>
+			</div>
+			<div class="modal-body">
+
+				<form class="row" action="/produtos" method="get">
+					
+					<div class="col-12 p-0 align-self-center">
+
+						<div class="row">
+							<div class="col-12 p-0 pb-3">
+								<h2>O que você procura?</h2>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group">
+								<input type="text" name="busca" class="form-control" placeholder="Digite aqui" required>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-12 p-0 input-group align-self-center">
+								<button type="submit" class="btn primary-button" id="botao">
+									<i class="icon-magnifier"></i>
+									Buscar								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Modal [responsive menu] -->
+<div id="menu" class="p-0 modal fade" role="dialog" aria-labelledby="menu" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-slideout" role="document">
+		<div class="modal-content full">
+			<div class="modal-header" data-dismiss="modal">
+				Menu <i class="icon-close"></i>
+			</div>
+			<div class="menu modal-body">
+				<div class="row w-100">
+					<div class="items p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+					<div class="contacts p-0 col-12 text-center">
+						<!-- Append [navbar] -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="/js/vendor/jquery.min.js"></script>
+<script src="/js/js.js"> </script>
+
+<script src="/js/vendor/jquery.easing.min.js"></script>
+<script src="/js/vendor/jquery.inview.min.js"></script>
+<script src="/js/vendor/popper.min.js"></script>
+<script src="/js/vendor/bootstrap.min.js"></script>
+<script src="/js/vendor/ponyfill.min.js"></script>
+<script src="/js/vendor/slider.min.js"></script>
+<script src="/js/vendor/animation.min.js"></script>
+<script src="/js/vendor/progress-radial.min.js"></script>
+<script src="/js/vendor/bricklayer.min.js"></script>
+<script src="/js/vendor/gallery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="/js/vendor/shuffle.min.js"></script>
+<script src="/js/vendor/cookie-notice.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="/js/custom.js"></script>
+
+
+
+<script type="text/javascript">
+// captchas iniciados manualmente
+// o id é usado quando há mais de 2 captchas na mesma tela 
+var onloadCallbackcaptcha = function(){
+	$('[data-grecaptcha]').each(function(){
+		var id = grecaptcha.render(this, {
+			'sitekey' : $(this).attr('data-sitekey'),
+		});
+		
+		$(this).attr('data-grecaptcha', id);
+	});
+}
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackcaptcha&render=explicit"></script>
+
+<script src="/js/js.js"></script>
+
+<script>
+send_events_session();    
+</script>
+
+</body>
+
+</html>
